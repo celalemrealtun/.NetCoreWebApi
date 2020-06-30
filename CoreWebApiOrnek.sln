@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreWebApiOrnek.DAL", "CoreWebApiOrnek.DAL\CoreWebApiOrnek.DAL.csproj", "{F09FDB3F-ABE6-424C-889B-B30629398B7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreWebApiOrnek.DAL", "CoreWebApiOrnek.DAL\CoreWebApiOrnek.DAL.csproj", "{F09FDB3F-ABE6-424C-889B-B30629398B7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreWebApiOrnek.BL", "CoreWebApiOrnek.BL\CoreWebApiOrnek.BL.csproj", "{5030AF09-CDED-470D-A06A-34586DC2E505}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreWebApiOrnek.BL", "CoreWebApiOrnek.BL\CoreWebApiOrnek.BL.csproj", "{5030AF09-CDED-470D-A06A-34586DC2E505}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreWebApiOrnek.Entities", "CoreWebApiOrnek.Entities\CoreWebApiOrnek.Entities.csproj", "{2CB9696E-288C-4DE3-8E19-8DB216FA707C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreWebApiOrnek.Entities", "CoreWebApiOrnek.Entities\CoreWebApiOrnek.Entities.csproj", "{2CB9696E-288C-4DE3-8E19-8DB216FA707C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreWebApiOrnek.DTO", "CoreWebApiOrnek.DTO\CoreWebApiOrnek.DTO.csproj", "{8A29037C-4F09-467A-B798-81EA0CD41C41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreWebApiOrnek.DTO", "CoreWebApiOrnek.DTO\CoreWebApiOrnek.DTO.csproj", "{8A29037C-4F09-467A-B798-81EA0CD41C41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreWebApiOrnek.Api", "CoreWebApiOrnek.Api\CoreWebApiOrnek.Api.csproj", "{40573BA5-8C9F-417A-AB12-4BE85F2054B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreWebApiOrnek.Api", "CoreWebApiOrnek.Api\CoreWebApiOrnek.Api.csproj", "{40573BA5-8C9F-417A-AB12-4BE85F2054B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreWebApiOrnek.Helper", "CoreWebApiOrnek.Helper\CoreWebApiOrnek.Helper.csproj", "{E9F56323-B5CB-4992-AB44-B36851246C5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreWebApiOrnek.Helper", "CoreWebApiOrnek.Helper\CoreWebApiOrnek.Helper.csproj", "{E9F56323-B5CB-4992-AB44-B36851246C5D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

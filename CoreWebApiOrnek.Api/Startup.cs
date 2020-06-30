@@ -116,7 +116,7 @@ namespace CoreWebApiOrnek.Api
 
             app.UseSwaggerUI(opt =>
             {
-                opt.SwaggerEndpoint("/swagger/doc/swagger.json", "Test Api");
+                opt.SwaggerEndpoint("/swagger/doc/swagger.json", "Test Api v1");
 
             });
             app.UseEndpoints(endpoints =>
